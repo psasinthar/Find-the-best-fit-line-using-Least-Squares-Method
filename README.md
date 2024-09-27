@@ -48,6 +48,20 @@ plt.show()
 ```
 ## Output:
 
+
+## input values are 
+![Screenshot 2024-09-27 190358](https://github.com/user-attachments/assets/99ec5556-2c55-4276-a1c3-09567d0f10b9)
+
+
+## slope:
+![Screenshot 2024-09-27 190405](https://github.com/user-attachments/assets/20b16b23-e1e7-48a0-a16b-30e7b2451b00)
+
+
+## y_intercept:
+![Screenshot 2024-09-27 190415](https://github.com/user-attachments/assets/02e8bbde-c405-4a05-83fd-7ce6928677b7)
+
+
+## y_predict:
 ![Screenshot 2024-08-30 222353](https://github.com/user-attachments/assets/0a9f1a8c-f839-4667-b1ef-f9b0c5d42e4e)
 
 
